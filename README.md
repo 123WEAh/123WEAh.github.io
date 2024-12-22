@@ -37,17 +37,17 @@
   [Magisk模块开发者](http://www.coolapk.com/u/540690)
 - 🌟 [🔴 MeowLGmxyysd*喵姐](http://www.coolapk.com/u/814297) - *Coolapk Contributor*  
   [酷安贡献者](http://www.coolapk.com/u/814297)
-
+- 📱 **Coolapk*Shaw99*: [🟠 Visit Here](https://www.coolapk.com/u/3772125) |
+- **酷安主页**：[🔴 点击访问](https://www.coolapk.com/u/3772125) [Shaw工具箱开发者]
 ---
-
+ {}
 ## 🚀 **Quick Links | 快速导航**
 
 | 📂 **Category | 分类**            | 🔗 **Resource Links | 资源链接** |
 |------------------------------|---------------------------------|
 | 📥 **Official Firmware** | [🟢 Visit](https://yun.daxiaamu.com/) |
 |   **一加固件下载**        
-| 🛠️ **Flash Tools & Resources**   | [🔵 Visit](https://www.yhcres.top/)     |
-|   **工具箱下载**
+| 🛠️ **Flash Tools & 柚坛工具箱**   | [🔵 Visit]((https://github.com/Uotan-Dev/UotanToolBox)/)     |
 | 📜 **Magisk Download** | [🟡 Visit](https://github.com/HuskyDG/magisk-files/releases/) |
 |   **Magisk Delta**
 | 🎶 **Music Apps**                | [🔴 Visit](https://listen1.github.io/listen1/) |
@@ -82,6 +82,6 @@ If you find this helpful, please give my repository a **⭐ Star ⭐**—it mean
 ---
 
 ## 💖 **Sponsor Links | 赞助链接**
-- 🌟 **Afdian**: [🟢 Visit Here](https://afdian.com/a/Muzi441) | **爱发电**：[🔵 点击访问](https://afdian.com/a/Muzi441)
-- 📱 **Coolapk**: [🟠 Visit Here](https://www.coolapk.com/u/3772125) | **酷安主页**：[🔴 点击访问](https://www.coolapk.com/u/3772125)
-- 💖 **Afdian**: [🟠 Visit Here](https://afdian.com/a/mlgmxyysd) | **爱发电**：[🔴 点击访问](https://afdian.com/a/mlgmxyysd)
+- 🌟 **Afdian*木子 & 本人*: [🟢 Visit Here](https://afdian.com/a/Muzi441) | **爱发电**：[🔵 点击访问](https://afdian.com/a/Muzi441)
+- 💖 ***喵姐*: [🟠 Visit Here](https://afdian.com/a/mlgmxyysd) | **爱发电**：[🔴 点击访问](https://afdian.com/a/mlgmxyysd)
+- 🐨 **AFdian*CO_LOR*： [ VIsit Here](https://afdian.com/a/color597)
