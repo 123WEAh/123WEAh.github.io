@@ -1,183 +1,84 @@
-**让你的手机更强大，更个性，更好玩！**  
-欢迎来到 **木子的玩机资源站**！这里尽量去分享 **一加（OnePlus）** 设备的玩机资源！    
-✨ **玩出极致，玩出个性，一加，始终如一！** ✨  
+# README.md
+
+🎉 **🌈 Empower Your Phone, Personalize It, and Have More Fun! 🌟** 🎉  
+**欢迎来到木子的玩机资源站！** 🎉
+
+✨ **OnePlus is consistent, let your phone be unique!** ✨  
+✨ **玩出极致，玩出个性，一加，始终如一！** ✨
 
 ---
 
-## 🛠️ 分享的资源！ 
-📂 **系统工具**  
-- 🔧 [一加固件下载](https://yun.daxiaamu.com/)  
-- 🔥 [一加11 OnePlus 11的第三方ROM 和 TWRP](https://www.123865.com/s/nOd5jv-XJHu3)  
-  - *本人只分享了自己使用的 ROM，如果你想使用其他的 ROM，请前往 XDA 或阿木大侠等大型论坛或资源分享站*  
-  - *(仅提供了123云盘和官网的链接)*
-  - Nameless Rom 官网：https://www.nameless.wiki/
-  - XDA 官网：https://xdaforums.com/
-  - 嘟嘟嘟！！！
-- 🛠️ [柚坛工具箱 工具下载](https://xiaoyi.vc/otantoolboxnt.html)  
-- 🖥️ [MiWindows - 刷机工具](http://mindows.com/)  
-- 🧰 [YHCres 系统资源](https://www.yhcres.top/)  
-  - *这些资源会在有空时逐步更新*  
+## 🛠️ **🌟 Resources at a Glance | 玩机资源 🌟**
 
-🎨 **各大 Root面具 资源**  
-- 💎 [APatch - 一加系统定制](https://github.com/bmax121/APatch)  
-- 🎵 [Magisk Delta]( https://github.com/HuskyDG/magisk-files/releases/)
-- 也是唯一推荐的，目前在安卓15的系统上面也可以使用！
-- 🔍 [ KernelSU 下载](https://kernelsu.org/guide/difference-with-magisk.html)  
--😝 喵姐的个人博客 ）[点击访问](neko.ink)
--🍎 Co_lor的刷机资源（一加官改包和Twrp）[点击访问](https://docs.qq.com/doc/DTHhteE9xdnFPbVZM)
----[慢慢等待，不要着急！]
+### 📂 **System Tools | 系统工具**
+- 🔧 **[🟢 OnePlus Firmware](https://yun.daxiaamu.com/)** | **[一加固件下载](https://yun.daxiaamu.com/)**
+- 🔥 **[🔵 Third-party ROMs & TWRP for OnePlus 11](https://www.123865.com/s/nOd5jv-XJHu3)**  
+  *Includes only tested ROMs. For more, visit [🟡 Nameless ROM](https://www.nameless.wiki/) or [🟣 XDA Forums](https://xdaforums.com/).*  
+- 🛠️ **[🟠 Youtan Toolbox](https://xiaoyi.vc/otantoolboxnt.html)** | **[柚坛工具箱](https://xiaoyi.vc/otantoolboxnt.html)**
+- 🖥️ **[🔴 MiWindows Flash Tool](http://mindows.com/)** | **[MiWindows 刷机工具](http://mindows.com/)**
+- 🧰 **[🟢 YHCres Resources](https://www.yhcres.top/)** | **[YHCres 系统资源](https://www.yhcres.top/)**
 
-## 🤝 玩机资源与大牛分享  
-（以下是一些资源和作者的酷安快捷通道链接，感谢他们的贡献！）
-
-- [Co_lor - 一加官改作者](http://www.coolapk.com/u/642425)  
-- [某贼 - 各路资源和工具作者及分享者](http://www.coolapk.com/u/3463951)  
-  - *包括萤火虫资源网的维护者*  
-- [天伞桜 - Pui，Asop 安装器等 Magisk 模块开发者](http://www.coolapk.com/u/540690)  
-- [喵了个咪（mlgmxyysd） - 也是大佬](http://www.coolapk.com/u/814297)  
-
----[后续会逐步更新和分享大佬们的资源访问频道]
-
-- .[小伙伴]
-- 牢空[点击访问](http://www.coolapk.com/u/3589969)
-- 牢金[点击访问](https://www.coolapk.com/u/18467758)
-- 会慢慢拓展资源和小伙伴的！
-- 感谢支持！
-  
-如果各位还想了解一些Magisk模块和Lsposed模块分享和部分教程：
-
-## 🚀 快速导航  
-| 🔗 分类                | 📁 资源链接                             |  
-|----------------------|---------------------------------|  
-| 📥 **官方固件下载**    | [点击访问](https://yun.daxiaamu.com/) |  
-| 🛠️ **刷机工具及资源合集**    | [点击访问](https://www.yhcres.top/)    |   
-| 📜 **Magisk 下载**    | [点击访问](https://github.com/HuskyDG/magisk-files/releases/) 
-| 🎶 **音乐软件分享**   | .[点击访问](https://listen1.github.io/listen1/)
-| 🤖 **Shaw99工具箱分享**   |.[点击访问](https://www.coolapk.com/u/3772125)
-慢慢等待，不要着急！
----
-
-## 🌟 关于我  
-- **🌸 昵称**：木子 Mu_Zi  
-- **📧 邮箱**：[Y3546668991@outlook.com](mailto:Y3546668991@outlook.com)  
-- **🎯 爱好**：一个小笨蛋罢了，业余爱好者，偶尔分享资源等等
+### 🎨 **Root Tools | Root工具**
+- 💎 **[🔵 APatch Customization](https://github.com/bmax121/APatch)** | **[APatch 定制](https://github.com/bmax121/APatch)**
+- 🎵 **[🟡 Magisk Delta](https://github.com/HuskyDG/magisk-files/releases/)**  
+  *Recommended for Android 15 and above!*  
+- 🔍 **[🟠 KernelSU](https://kernelsu.org/guide/difference-with-magisk.html)** | **[KernelSU 下载](https://kernelsu.org/guide/difference-with-magisk.html)**
+- 😝 **[🟣 Neko's Blog](neko.ink)** | **[喵姐的博客](neko.ink)**
+- 🍎 **[🔴 Co_lor's TWRP & Mods](https://docs.qq.com/doc/DTHhteE9xdnFPbVZM)** | **[Co_lor的官改包](https://docs.qq.com/doc/DTHhteE9xdnFPbVZM)**
 
 ---
 
-## 🎉 为什么选择这里？  
-作为一个 **玩机小白**，我在尝试各种一加设备相关的资源和工具时，也经历了不少困难。为了记录和分享自己找到的有效资源，我将这些整理成了一个小站，方便自己和其他同样在探索一加设备的朋友。  
-我的资源整理不完美，但我希望它能帮助到和我一样的玩家，少走一些弯路，也许你会在这里找到有用的东西。  
+## 🤝 **💖 Acknowledgments | 致谢 💖**
+- 🌟 [🔵 Co_lor](http://www.coolapk.com/u/642425) - *OnePlus Mod Author*  
+  [一加官改作者](http://www.coolapk.com/u/642425)
+- 🌟 [🟠 Some Thief](http://www.coolapk.com/u/3463951) - *Resources Maintainer*  
+  [萤火虫资源网维护者](http://www.coolapk.com/u/3463951)
+- 🌟 [🟣 TianSanSakura](http://www.coolapk.com/u/540690) - *Magisk Module Dev*  
+  [Magisk模块开发者](http://www.coolapk.com/u/540690)
+- 🌟 [🔴 MeowLGmxyysd](http://www.coolapk.com/u/814297) - *Coolapk Contributor*  
+  [酷安贡献者](http://www.coolapk.com/u/814297)
 
 ---
 
-## 🌟 给我一个 Star！  
-如果你觉得这些资源对你有帮助，请为我的仓库点个 **Star** 🌟，这将是我最大的支持和动力！  
+## 🚀 **Quick Links | 快速导航**
 
-> **💡 小提示**  
-> - 资源仅供学习交流使用，请勿用于非法或商业用途！  
-> - 如有侵权问题，请联系我及时删除。  
-> - 资源更新不太准时，感谢大家的耐心等待！  
+| 📂 **Category | 分类**            | 🔗 **Resource Links | 资源链接** |
+|------------------------------|---------------------------------|
+| 📥 **Official Firmware**         | [🟢 Visit](https://yun.daxiaamu.com/) |
+| 🛠️ **Flash Tools & Resources**   | [🔵 Visit](https://www.yhcres.top/)     |
+| 📜 **Magisk Download**           | [🟡 Visit](https://github.com/HuskyDG/magisk-files/releases/) |
+| 🎶 **Music Apps**                | [🔴 Visit](https://listen1.github.io/listen1/) |
 
-**感谢每一位支持和信任的朋友，一起玩转 OnePlus！** 🎉  
+---
 
-（也可以赞助，这样也是一份动力哟！）
-本人爱发电赞助：[点击访问](https://afdian.com/a/Muzi441)
-酷安主页：[点击访问](https://www.coolapk.com/u/3772125)
---
+## 🌟 **About Me | 关于我 🌟**
+- 🌸 **Nickname**: Muzi  
+  **昵称**: 木子 Mu_Zi  
+- 📧 **Email**: [Y3546668991@outlook.com](mailto:Y3546668991@outlook.com)
+- 🎯 **Hobby**: Sharing resources as an enthusiast.  
+  **爱好**: 资源分享业余爱好者。
 
-代挂：
-Co_lor597的赞助网：[点击访问](http://afdian.com/a/color597)
+---
 
+## 🎉 **Why Here? | 为什么选择这里？**
+Creating this hub to simplify the journey of OnePlus enthusiasts. As a beginner, I aim to share verified tools and minimize hurdles.  
+为了记录和分享有效资源，我将其整理成一个站点，方便一加玩家快速找到所需。
 
+---
 
-Oneplus Resource Hub
-✨ Muzi's OnePlus Resource Hub ✨
-Make your OnePlus device more powerful, personalized, and fun!
-Welcome to Muzi’s OnePlus Resource Hub, your go-to collection for OnePlus enthusiasts! Here, I share resources to enhance and customize your OnePlus experience.
-✨ Push your device to the limits with OnePlus! ✨
+## 🌟 **Support Me! | 支持我！ 🌟**
+If you find this helpful, give a **⭐ Star ⭐** to my repository—it means the world to me!  
+如果觉得资源有帮助，请为仓库点个 **⭐ Star ⭐**，谢谢支持！
 
-🔧 Available Resources
-📂 System Tools
-🔧 Official OnePlus Firmware Download
+> 💡 **Note | 提示**  
+> - Resources for learning purposes; do not use them for illegal actions.  
+> - 如有侵权，请联系删除。
 
-🔥 Custom ROMs and TWRP for OnePlus 11
+**Let’s explore OnePlus together! | 一起玩转一加！** 🎉
 
-Only ROMs personally tested are shared here. For more ROMs, visit XDA or other forums.
+---
 
-Links provided include 123 Cloud Drive and official websites.
-
-Nameless ROM Official Website: nameless.wiki
-
-XDA Forums: xdaforums.com
-
-🔧 Otantoolbox Download
-
-🖌️ MiWindows Flash Tool
-
-🫰 YHCres System Resources (Resources will be updated gradually.)
-
-🎨 Rooting & Customization Tools
-💎 APatch - System Customization for OnePlus
-
-🎵 Magisk Delta (Supports Android 15 and above.)
-
-🔍 KernelSU
-
-🐾 Neko’s Blog
-
-🍎 Co_lor’s Custom ROMs and TWRP (Includes OnePlus official mods and recovery images.)
-
-🤝 Collaborations and Contributor Links
-Here are some incredible contributors and their resource hubs. Huge thanks to them for their work!
-
-Co_lor - Custom ROM Developer
-
-SomeThief - Resource and Tool Sharing
-
-Also manages Firefly Resource Hub
-
-TianSanOu - Developer of PUI, AOSP Installer, and Magisk Modules
-
-Meow (mlgmxyysd) - Another Big Contributor
-
-LaoKong’s Profile
-
-LaoJin’s Profile
-
-🚀 Quick Navigation
-🔗 Category	📁 Resource Link
-💽 Official Firmware	Visit
-🔧 Flashing Tools	Visit
-🔄 Magisk	Visit
-🎶 Music Apps	Visit
-🤖 Shaw99 Toolbox	Visit
-✨ About Me
-🌸 Name: Muzi
-
-📧 Email: Y3546668991@outlook.com
-
-🎮 Interests: Hobbyist, enthusiast, and resource sharer.
-
-🎉 Why Choose This Hub?
-As a OnePlus enthusiast, I’ve faced many challenges while exploring the world of custom ROMs, rooting, and tools. To make things easier for others like me, I’ve gathered and organized these resources in one place. While not perfect, I hope this hub saves you time and effort, and maybe you’ll discover something useful here!
-
-🌟 Support This Project
-If you find these resources helpful, please consider supporting this project by giving it a Star 🌟 on GitHub or making a small donation. Your support is my greatest motivation!
-
-Donate via AFD: Click Here
-
-Coolapk Profile: Click Here
-
-Co_lor’s Donation Link: Click Here
-
-💡 Note:
-
-Resources are for educational and personal use only. Please do not use them for illegal purposes.
-
-If there’s any infringement issue, contact me for removal.
-
-Updates may not be timely; thanks for your patience!
-
-
-
+## 💖 **Sponsor Links | 赞助链接**
+- 🌟 **Afdian**: [🟢 Visit Here](https://afdian.com/a/Muzi441) | **爱发电**：[🔵 点击访问](https://afdian.com/a/Muzi441)
+- 📱 **Coolapk**: [🟠 Visit Here](https://www.coolapk.com/u/3772125) | **酷安主页**：[🔴 点击访问](https://www.coolapk.com/u/3772125)
 
