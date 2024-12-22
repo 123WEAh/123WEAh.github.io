@@ -11,7 +11,10 @@
 - 🔧 [一加固件下载](https://yun.daxiaamu.com/)  
 - 🔥 [一加11 OnePlus 11的第三方ROM 和 TWRP](https://www.123865.com/s/nOd5jv-XJHu3)  
   - *本人只分享了自己使用的 ROM，如果你想使用其他的 ROM，请前往 XDA 或阿木大侠等大型论坛或资源分享站*  
-  - *(仅提供了123云盘的链接)*  
+  - *(仅提供了123云盘和官网的链接)*
+  - Nameless Rom 官网：https://www.nameless.wiki/
+  - XDA 官网：https://xdaforums.com/
+  - 嘟嘟嘟！！！
 - 🛠️ [柚坛工具箱 工具下载](https://xiaoyi.vc/otantoolboxnt.html)  
 - 🖥️ [MiWindows - 刷机工具](http://mindows.com/)  
 - 🧰 [YHCres 系统资源](https://www.yhcres.top/)  
@@ -40,17 +43,20 @@
 - .[小伙伴]
 - 牢空[点击访问](http://www.coolapk.com/u/3589969)
 - 牢金[点击访问](https://www.coolapk.com/u/18467758)
-- 会慢慢拓展！
+- 会慢慢拓展资源和小伙伴的！
+- 感谢支持！
   
-
+如果各位还想了解一些Magisk模块和Lsposed模块分享和部分教程：
 
 ## 🚀 快速导航  
 | 🔗 分类                | 📁 资源链接                             |  
 |----------------------|---------------------------------|  
 | 📥 **官方固件下载**    | [点击访问](https://yun.daxiaamu.com/) |  
 | 🛠️ **刷机工具及资源合集**    | [点击访问](https://www.yhcres.top/)    |   
-| 📜 **Magisk 下载**    | [点击访问](https://github.com/HuskyDG/magisk-files/releases/)   |  
-
+| 📜 **Magisk 下载**    | [点击访问](https://github.com/HuskyDG/magisk-files/releases/) 
+| 🎶 **音乐软件分享**   | .[点击访问](https://listen1.github.io/listen1/)
+| 🤖 **Shaw99工具箱分享**   |.[点击访问](https://www.coolapk.com/u/3772125)
+慢慢等待，不要着急！
 ---
 
 ## 🌟 关于我  
@@ -77,7 +83,8 @@
 **感谢每一位支持和信任的朋友，一起玩转 OnePlus！** 🎉  
 
 （也可以赞助，这样也是一份动力哟！）
-本人爱发电赞助：
+本人爱发电赞助：[点击访问](https://afdian.com/a/Muzi441)
+酷安主页：[点击访问](https://www.coolapk.com/u/3772125)
 --
 
 代挂：
