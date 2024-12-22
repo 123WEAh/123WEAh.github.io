@@ -21,7 +21,7 @@
 ### 🎨 **Root Tools | Root工具**
 - 💎 **[🔵 APatch Customization](https://github.com/bmax121/APatch)** | **[APatch 定制](https://github.com/bmax121/APatch)**
 - 🎵 **[🟡 Magisk Delta](https://github.com/HuskyDG/magisk-files/releases/)**  
-  *Recommended for Android 15 and above!*  
+  *Recommended for Android 15 and above!*   *在安卓15依然适用*
 - 🔍 **[🟠 KernelSU](https://kernelsu.org/guide/difference-with-magisk.html)** | **[KernelSU 下载](https://kernelsu.org/guide/difference-with-magisk.html)**
 - 😝 **[🟣 Neko's Blog](neko.ink)** | **[喵姐的博客](neko.ink)**
 - 🍎 **[🔴 Co_lor's TWRP & Mods](https://docs.qq.com/doc/DTHhteE9xdnFPbVZM)** | **[Co_lor的官改包](https://docs.qq.com/doc/DTHhteE9xdnFPbVZM)**
@@ -64,7 +64,7 @@
 ---
 
 ## 🎉 **Why This Hub? | 为什么选择这里？**
-I created this hub to make it easier for OnePlus enthusiasts to find verified tools and resources.  
+I created this hub to make it easier for OnePlus enthusiasts to find verified tools 和 resources.  
 我建立这个站点，帮助一加玩家轻松找到验证过的工具和资源。
 
 ---
